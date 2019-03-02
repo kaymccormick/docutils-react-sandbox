@@ -5,8 +5,9 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "@emotion/core": "^10.0.7",
     "@emotion/styled": "10.0.7",
-    "docutils-react": "0.1.7",
+    "docutils-react": "0.2.4",
     "react": "16.8.0",
     "react-dom": "16.8.0",
     "react-scripts": "2.0.3",
@@ -19,5 +20,10 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
